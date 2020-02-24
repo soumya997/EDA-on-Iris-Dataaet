@@ -1,1 +1,1 @@
-# EDA-on-Iris-Dataaet
+# EDA-on-Iris-Dataset
